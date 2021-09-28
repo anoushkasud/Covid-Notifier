@@ -10,7 +10,8 @@ There are three steps you need to do:
 For getting notifications on windows notify function from python library plyer.notification is used.
 
 ## Get data from the source
-The website used here as the source is "https://www.mohfw.gov.in"\n 
+The website used here as the source is "https://www.mohfw.gov.in"
+
 Data is extracted from the website in json format and then converted into a DataFrame.
 
 ## Call the notifier function to get notifications
